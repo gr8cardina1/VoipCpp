@@ -1,0 +1,1 @@
+LC_ALL=C CCACHE_DISABLE=1 time gmake `[ $(uname -s) == Linux ] && echo -n CPLUS=/usr/bin/g++` -j `[ $(uname -s) == Linux ] && grep ^processor /proc/cpuinfo | wc -l || sysctl hw.ncpu | sed -e 's,.* ,,'` $*

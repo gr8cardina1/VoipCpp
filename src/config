@@ -1,0 +1,22 @@
+InPeers
+OutPeers
+InDefaultPrice
+Price
+OutPrice
+InPeerGWS
+OutPeerGWS
+AllowedRoutes
+CallingReplaceList
+DebugInIps
+InIPAddresses", "Users", "GrossBook", "Accounts", "ClientReportInCache",
+		"PrepaidIds", "CardsPrice", "PrepaidPrice", "Cards", "InCallingReplaceList", "CardGWS",
+		"gws", "CodecClassList", "Codecs", "Rules", "TimeBased", "TarifDesc", "OutIPAddresses",
+		"InAccessList", "OutAccessList", "AllowedGroups", "OutGroupPeers", "ValuteRates",
+		"DefaultPrices", "Valutes", "ProtoClassList", "ProtoParameterList", "Interfaces",
+		"InterfaceHuntGroupList", "DNIS", "InPrepaidPrefixes", "CardAmortiseCost",
+		"AllowedDnis", "Ani", "CallBackPrefixes", "RuleSets", "SignallingOptions",
+		"CardCallsCache", "PrepaidAllowedRoutes", "PrepaidAllowedGroups", "CardNumbers",
+		"RadConf", "CardRadiusClasses", "RadiusClassList", "RadiusClassValues",
+		"GateKeepers", "GKLogins", "Recoders", "IcqContacts", "IcqContactList", "Admins",
+		"FinReportInCache", "InEndUserPrice", "ReleaseCompleteReplaceMap",
+		"IPAcct", ( useIPAcct ? "IPPeers" : 0 ), 0 };
